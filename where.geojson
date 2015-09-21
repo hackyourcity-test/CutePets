@@ -2,7 +2,18 @@
 {
 	"type": "FeatureCollection",
 	"features": [
-		
+		{ 
+			"type": "Feature",
+			"properties":
+			{
+				"twitter" : "http://twitter.com/FAKEFAKE"
+			},
+			"geometry":
+			{
+				"type": "Point",
+				"coordinates": [ -104.871902 , 39.891651 ]
+			}
+		},
 		{ 
 			"type": "Feature", 
 			"properties": 
